@@ -9,7 +9,7 @@ An example of [MuPDF WebViewer](https://webviewer.mupdf.com) within an Angular p
 
 ## Before you start
 
-- Visit [https://webviewer.mupdf.com](https://webviewer.mupdf.com) to get a trial license.
+- Visit [https://webviewer.mupdf.com/account](https://webviewer.mupdf.com/account) to get a license key.
 - Copy the license key and replace `YOUR_LICENCE_KEY` in `src/App.jsx` with the license key.
 
 > [!TIP]  
