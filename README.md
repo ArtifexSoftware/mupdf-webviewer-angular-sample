@@ -13,4 +13,4 @@ An example of [MuPDF WebViewer](https://webviewer.mupdf.com) within an Angular p
 - Copy the license key and ...
 
 > [!TIP]  
-> Ensure to register `localhost` as a domain for your license key if you require test locally!
+> Ensure to register `localhost` as a domain for your license key if you require to test locally!
