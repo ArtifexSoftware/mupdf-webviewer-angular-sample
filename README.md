@@ -1,6 +1,6 @@
 # MuPDF WebViewer Angular Sample
 
-This sample provides a guide to integrate [MuPDF WebViewer](https://webviewer.mupdf.com) into an Angular project.
+An example of [MuPDF WebViewer](https://webviewer.mupdf.com) within an Angular project.
 
 ## Prerequisites
 
